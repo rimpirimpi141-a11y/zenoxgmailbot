@@ -1,0 +1,11 @@
+name = "zenox-worker-bot"
+main = "src/index.ts"
+compatibility_date = "2026-11-04"
+compatibility_flags = ["nodejs_compat"]
+
+[[kv_namespaces]]
+binding = "DB"
+id = "YOUR_KV_NAMESPACE_ID_HERE"
+
+[vars]
+BOT_USERNAME = "ZenoxWorkerBot"

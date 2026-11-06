@@ -1,0 +1,6 @@
+{
+  "name": "Zenox Worker Bot — Cloudflare Workers Deployment Kit",
+  "description": "Production serverless Telegram bot built with grammY and Cloudflare KV binding (DB) configured for pure ES module Worker deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
